@@ -7,7 +7,7 @@
            echo remove_junk($page_title);
             elseif(!empty($user))
            echo ucfirst($user['name']);
-            else echo "Sistema simple de inventario";?>
+            else echo "Sistema Inventario";?>
     </title>
 	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
